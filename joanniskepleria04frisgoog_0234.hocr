@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joanniskepleria04frisgoog_0234.png"; bbox 0 0 3366 5482; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 230 1460 1048 1639">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 230 1460 1048 1639">
+     <span class='ocr_line' id='line_1_1' title="bbox 230 1460 1048 1639; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 230 1460 233 1465; x_wconf 60' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 459 1527 726 1639; x_wconf 64' lang='lat' dir='ltr'><strong>Jomms</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 765 1528 1048 1638; x_wconf 68' lang='lat' dir='ltr'><strong>mmm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 153 1904 1353 2104">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 153 1904 1353 2104">
+     <span class='ocr_line' id='line_1_2' title="bbox 153 1904 1353 2104; baseline 0.003 -66"><span class='ocrx_word' id='word_1_4' title='bbox 153 1906 722 2038; x_wconf 69' lang='grc' dir='ltr'><strong>ΑΡοιοαΙΑ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 788 1904 1353 2104; x_wconf 68' lang='lat' dir='ltr'><strong>&#39;wonoms</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 679 2294 826 2348">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 679 2294 826 2348">
+     <span class='ocr_line' id='line_1_3' title="bbox 679 2294 826 2348; baseline 0.014 -1"><span class='ocrx_word' id='word_1_6' title='bbox 679 2294 826 2348; x_wconf 81' lang='lat' dir='ltr'><strong>CONTRA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 326 2528 1184 2743">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 326 2528 1184 2743">
+     <span class='ocr_line' id='line_1_4' title="bbox 326 2528 1184 2743; baseline 0.007 -6"><span class='ocrx_word' id='word_1_7' title='bbox 326 2619 610 2740; x_wconf 73' lang='lat' dir='ltr'><strong>NIGOLAUM</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 641 2528 953 2740; x_wconf 68' lang='lat' dir='ltr'>RAYMARUM</span> <span class='ocrx_word' id='word_1_9' title='bbox 986 2622 1184 2743; x_wconf 75' lang='lat' dir='ltr'><strong>URSUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1688 5482">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1688 5482">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1688 5482; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1688 5482; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
